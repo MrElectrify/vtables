@@ -1,7 +1,7 @@
 [package]
 name = "vtables"
-version = "0.1.0"
-authors = ["jan"]
+version = "0.2.0"
+authors = ["jan", "Andrew Buck"]
 edition = "2018"
 license = "GPL-3.0"
 repository = "https://github.com/not-wlan/vtables"
